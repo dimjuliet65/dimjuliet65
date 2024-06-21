@@ -1,5 +1,5 @@
 - ## Hi there,
-- # This is Dim Juliet
+- # This is Dim Juliet..
 - ## I am interested in data analysis..
 - ### I am currently learning data analysis..
 - ### I am looking to collaborate on ...
